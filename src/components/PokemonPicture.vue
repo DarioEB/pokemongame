@@ -16,6 +16,7 @@
 
 <script>
 export default {
+    name: 'PokemonPicture',
     props: {
         pokemonId: {
             type: Number,

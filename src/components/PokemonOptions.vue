@@ -13,6 +13,7 @@
 
 <script>
 export default {
+    name: 'PokemonOptions',
     props: {
         pokemons: {
             type: Array,

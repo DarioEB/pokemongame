@@ -27,7 +27,7 @@ import getPokemonOptions from '@/helpers/getPokemonOptions';
 export default {
     components: { 
         PokemonOptions, 
-        PokemonPicture 
+        PokemonPicture
     },
     data() {
         return {
